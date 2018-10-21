@@ -1,6 +1,6 @@
 #UFRN-DCA
 #DCA0121 - Intelegencia Artificial Aplicada
-#Atividade Simulated Annealing
+#Questao 4 da prova da segunda unidade de IA - 2018.2
 #Alunos: Deyvison Dantas, Elizabete Venceslau e Tereza Stephanny
 
 
